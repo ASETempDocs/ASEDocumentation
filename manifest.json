@@ -1,0 +1,222 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Yoda1/source/repos/ase-boose-assignment-TomFlanagan95/ASE Assigment",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment.AppCanvas.html",
+          "hash": "f0QjuKRs1TXl9DlBoWIL43M/+kINpPcW9r9g4LGA8m4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment.AppCommandFactory.html",
+          "hash": "pAm52y6TxpJ1nKK7uTpaVgAETZNxt1OZ4w9dtn8WnRE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment.AppTriangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment.AppTriangle.html",
+          "hash": "nl2BHtE+DOwtDaRhZF4zIbECkm03Ayf0SeqU3t2foTY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment.AppWrite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment.AppWrite.html",
+          "hash": "xtTfMG1soettBfnXaJWZ3YPtOI/xRhwAXBFuDMbNOX4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment.Form1.html",
+          "hash": "pzDpHVOZ8RBT8nyiCauVzy2QVDw6R8OIPIb1IKOOJSU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment.html",
+          "hash": "apGdZvGpqT7gWV6d8j5RspEIBLheXTeHdGUSjWISH6c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment_Tests.AppCanvasTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment_Tests.AppCanvasTests.html",
+          "hash": "h5NfTbWyQjrvnqde/1tsfd8UF4lLBmNQxr/OWFC0dJY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assigment_Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assigment_Tests.html",
+          "hash": "vB/r7kEJeZ5gCOP3TxLcz5M2zKkfYC4a/r6hmjOiGPw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "HttkUOVBMOGTITQCpyDYgeJ5rV4WhVjZmo9Lm9A/bKQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "NqmTa31ACrSLGLkk6pz7ekEGVC6Ikrvu8LubgLeiCsQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "nzj3nZSTldqmGMlu3nZJJIODlMZRm0QzNxHM0vuKyTU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "gTfOX8V5CO42pUUGG/uoE7EqqvJRsly2qPEZ1uxbyUQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 2
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 8,
+          "skipped_file_count": 7
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
